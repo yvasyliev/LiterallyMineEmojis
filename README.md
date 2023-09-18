@@ -8,3 +8,4 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![Barbie](static/Barbie.png)
 ![mac-cursor](static/mac-cursor.png)
 ![windows-hand-cursor](static/windows-hand-cursor.png)
+![K(en)](static/K(en).png)
