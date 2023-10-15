@@ -11,4 +11,5 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![mac-cursor](static/mac-cursor.png)
 ![windows-hand-cursor](static/windows-hand-cursor.png)
 ![scorpion-from-drive-movie](static/scorpion-from-drive-movie.png)
+![spyro-cool](static/spyro-cool.png)
 ![samurai-logo](static/samurai-logo.png)
