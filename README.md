@@ -4,6 +4,7 @@ Telegram premium [emoji pack](https://t.me/addemoji/LiterallyMineEmojis).
 Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 
 ## Available emojis
+![alan-wake](static/alan-wake.png)
 ![B(arbie)](static/B(arbie).png)
 ![Barbie](static/Barbie.png)
 ![bird-origami-heavy-rain](static/bird-origami-heavy-rain.png)
