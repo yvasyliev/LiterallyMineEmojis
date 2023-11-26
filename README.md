@@ -7,6 +7,7 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![alan-wake](assets/alan-wake.png)
 ![B(arbie)](assets/B(arbie).png)
 ![Barbie](assets/Barbie.png)
+![better-call-soul](assets/better-call-soul.png)
 ![bird-origami-heavy-rain](assets/bird-origami-heavy-rain.png)
 ![crash-bandicoot](assets/crash-bandicoot.png)
 ![K(en)](assets/K(en).png)
