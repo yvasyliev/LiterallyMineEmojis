@@ -10,6 +10,7 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![better-call-soul](assets/better-call-soul.png)
 ![bird-origami-heavy-rain](assets/bird-origami-heavy-rain.png)
 ![crash-bandicoot](assets/crash-bandicoot.png)
+![gta-san-andreas-fist](assets/gta-san-andreas-fist.png)
 ![K(en)](assets/K(en).png)
 ![life-is-strange-rewind](assets/life-is-strange-rewind.png)
 ![little-nightmares-2](assets/little-nightmares-2.png)
