@@ -13,6 +13,7 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![gta-san-andreas-fist](assets/gta-san-andreas-fist.png)
 ![gta-vi-logo](assets/gta-vi-logo.png)
 ![K(en)](assets/K(en).png)
+![la-noire](assets/la-noire.png)
 ![life-is-strange-rewind](assets/life-is-strange-rewind.png)
 ![little-nightmares-2](assets/little-nightmares-2.png)
 ![mac-cursor](assets/mac-cursor.png)
