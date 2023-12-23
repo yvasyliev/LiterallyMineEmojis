@@ -17,6 +17,7 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![life-is-strange-rewind](assets/life-is-strange-rewind.png)
 ![little-nightmares-2](assets/little-nightmares-2.png)
 ![mac-cursor](assets/mac-cursor.png)
+![max-payne](assets/max-payne.png)
 ![windows-hand-cursor](assets/windows-hand-cursor.png)
 ![scorpion-from-drive-movie](assets/scorpion-from-drive-movie.png)
 ![spyro-cool](assets/spyro-cool.png)
