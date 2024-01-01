@@ -21,5 +21,6 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![windows-hand-cursor](assets/windows-hand-cursor.png)
 ![scorpion-from-drive-movie](assets/scorpion-from-drive-movie.png)
 ![spyro-cool](assets/spyro-cool.png)
+![spyro-the-dragon](assets/spyro-the-dragon.png)
 ![stray](assets/stray.png)
 ![samurai-logo](assets/samurai-logo.png)
