@@ -19,6 +19,7 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![mac-cursor](assets/mac-cursor.png)
 ![max-payne](assets/max-payne.png)
 ![red-dead-redemption](assets/red-dead-redemption.png)
+![red-dead-redemption-2](assets/red-dead-redemption-2.png)
 ![windows-hand-cursor](assets/windows-hand-cursor.png)
 ![scorpion-from-drive-movie](assets/scorpion-from-drive-movie.png)
 ![spyro-cool](assets/spyro-cool.png)
