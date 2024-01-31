@@ -26,4 +26,5 @@ Add to your collection: https://t.me/addemoji/LiterallyMineEmojis
 ![spyro-cool](assets/spyro-cool.png)
 ![spyro-the-dragon](assets/spyro-the-dragon.png)
 ![stray](assets/stray.png)
+![wake](assets/wake.png)
 ![samurai-logo](assets/samurai-logo.png)
